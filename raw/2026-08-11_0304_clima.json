@@ -1,0 +1,96 @@
+[
+    {
+        "coord": {
+            "lon": -34.8811,
+            "lat": -8.0539
+        },
+        "weather": [
+            {
+                "id": 500,
+                "main": "Rain",
+                "description": "chuva leve",
+                "icon": "10n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 24.22,
+            "feels_like": 24.92,
+            "temp_min": 24.22,
+            "temp_max": 24.22,
+            "pressure": 1018,
+            "humidity": 85,
+            "sea_level": 1018,
+            "grnd_level": 1015
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 133,
+            "gust": 6.2
+        },
+        "rain": {
+            "1h": 0.64
+        },
+        "clouds": {
+            "all": 85
+        },
+        "dt": 1786417343,
+        "sys": {
+            "country": "BR",
+            "sunrise": 1786437011,
+            "sunset": 1786479567
+        },
+        "timezone": -10800,
+        "id": 3390760,
+        "name": "Recife",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -34.8553,
+            "lat": -8.0089
+        },
+        "weather": [
+            {
+                "id": 500,
+                "main": "Rain",
+                "description": "chuva leve",
+                "icon": "10n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 24.54,
+            "feels_like": 25.24,
+            "temp_min": 24.54,
+            "temp_max": 24.54,
+            "pressure": 1018,
+            "humidity": 84,
+            "sea_level": 1018,
+            "grnd_level": 1015
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.27,
+            "deg": 131,
+            "gust": 6.71
+        },
+        "rain": {
+            "1h": 0.53
+        },
+        "clouds": {
+            "all": 92
+        },
+        "dt": 1786417202,
+        "sys": {
+            "country": "BR",
+            "sunrise": 1786437002,
+            "sunset": 1786479563
+        },
+        "timezone": -10800,
+        "id": 3393536,
+        "name": "Olinda",
+        "cod": 200
+    }
+]
