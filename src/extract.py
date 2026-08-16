@@ -19,13 +19,13 @@ postgres_url = os.getenv("POSTGRES_URL")
 CIDADES = [
     #"Recife,BR",
     #Olinda,BR",
-    "Natal,BR",
-    "Catolé do Rocha,BR",
-    # "João Pessoa,BR",
-    # "Campina Grande,BR",
-    # "Rio de janeiro,BR",
-    # "São Paulo,BR",
-    # "Brasília,BR"
+    #"Natal,BR",
+    #"Catolé do Rocha,BR",
+    #"João Pessoa,BR",
+    #"Campina Grande,BR",
+    #"Rio de janeiro,BR",
+    #"São Paulo,BR",
+    #"Brasília,BR"
 ]
 
 def extract(cidade) -> dict:
@@ -51,13 +51,3 @@ def salvar_raw(dados: dict, nome: str):
         json.dump(dados, f, ensure_ascii=False, indent=4)
 
     logging.info(f"Dado bruto salvo em: {file_path}")
-
-if __name__ == "__main__":
-    resultados = []
-    for cidade in CIDADES:
-        dado = extract(cidade)
-        if dado is not None:
-            resultados.append(dado)
-
-    if resultados:
-        salvar_raw(resultados, "clima")
