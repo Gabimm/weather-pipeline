@@ -1,0 +1,137 @@
+[
+    {
+        "coord": {
+            "lon": -43.2075,
+            "lat": -22.9028
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "nublado",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 21.98,
+            "feels_like": 22.43,
+            "temp_min": 21,
+            "temp_max": 22.88,
+            "pressure": 1022,
+            "humidity": 84,
+            "sea_level": 1022,
+            "grnd_level": 1023
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.69,
+            "deg": 110
+        },
+        "clouds": {
+            "all": 78
+        },
+        "dt": 1786835596,
+        "sys": {
+            "type": 1,
+            "id": 8429,
+            "country": "BR",
+            "sunrise": 1786785479,
+            "sunset": 1786826216
+        },
+        "timezone": -10800,
+        "id": 3451190,
+        "name": "Rio de Janeiro",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -46.6361,
+            "lat": -23.5475
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "nuvens dispersas",
+                "icon": "03n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 18.57,
+            "feels_like": 18.86,
+            "temp_min": 18.03,
+            "temp_max": 19.14,
+            "pressure": 1023,
+            "humidity": 91,
+            "sea_level": 1023,
+            "grnd_level": 931
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 150
+        },
+        "clouds": {
+            "all": 44
+        },
+        "dt": 1786835531,
+        "sys": {
+            "type": 2,
+            "id": 2082654,
+            "country": "BR",
+            "sunrise": 1786786346,
+            "sunset": 1786826994
+        },
+        "timezone": -10800,
+        "id": 3448439,
+        "name": "São Paulo",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -47.9297,
+            "lat": -15.7797
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "céu limpo",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 25.51,
+            "feels_like": 24.87,
+            "temp_min": 25.51,
+            "temp_max": 25.51,
+            "pressure": 1016,
+            "humidity": 29,
+            "sea_level": 1016,
+            "grnd_level": 891
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 110
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1786835600,
+        "sys": {
+            "type": 1,
+            "id": 8336,
+            "country": "BR",
+            "sunrise": 1786786139,
+            "sunset": 1786827822
+        },
+        "timezone": -10800,
+        "id": 3469058,
+        "name": "Brasília",
+        "cod": 200
+    }
+]

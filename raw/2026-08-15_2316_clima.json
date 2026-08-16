@@ -1,0 +1,91 @@
+[
+    {
+        "coord": {
+            "lon": -34.8631,
+            "lat": -7.115
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "algumas nuvens",
+                "icon": "02n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 24.13,
+            "feels_like": 24.77,
+            "temp_min": 24.13,
+            "temp_max": 24.13,
+            "pressure": 1017,
+            "humidity": 83,
+            "sea_level": 1017,
+            "grnd_level": 1013
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 140
+        },
+        "clouds": {
+            "all": 12
+        },
+        "dt": 1786835547,
+        "sys": {
+            "type": 1,
+            "id": 8391,
+            "country": "BR",
+            "sunrise": 1786782467,
+            "sunset": 1786825222
+        },
+        "timezone": -10800,
+        "id": 3397277,
+        "name": "João Pessoa",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -35.8811,
+            "lat": -7.2306
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "céu limpo",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 20.33,
+            "feels_like": 20.61,
+            "temp_min": 20.33,
+            "temp_max": 20.33,
+            "pressure": 1018,
+            "humidity": 84,
+            "sea_level": 1018,
+            "grnd_level": 962
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.3,
+            "deg": 126,
+            "gust": 9.49
+        },
+        "clouds": {
+            "all": 6
+        },
+        "dt": 1786835650,
+        "sys": {
+            "country": "BR",
+            "sunrise": 1786782719,
+            "sunset": 1786825460
+        },
+        "timezone": -10800,
+        "id": 3403642,
+        "name": "Campina Grande",
+        "cod": 200
+    }
+]
